@@ -7,4 +7,4 @@ Spam ring a user in a group chat.
  
  1) Start A Call In Group Chat
  2) Run The main.py File
- 3) Enter Your Token And The ID Of Target
+ 3) Enter Your Token, Group ID And The ID Of Target
