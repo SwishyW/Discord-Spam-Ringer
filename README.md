@@ -1,6 +1,7 @@
 # Discord Spam Ring
 <hr>
 Spam ring a user in a group chat.
+discord.gg/london
 <hr>
  
  How To Use:
